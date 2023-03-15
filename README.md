@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RJSHIVA
 - 👀 I’m interested in WEB DEVELPOMENT , COMPETiTIVE PROGRAMING.
 - 🌱 I’m currently learning DSA IN JAVA.
-- 💞️ I’m looking to collaborate on PROJECTS LIKE WEB DEVELOPMENT , DSA.
+- 🤖 I’m looking to collaborate on PROJECTS LIKE WEB DEVELOPMENT , DSA.
 - 📫 How to reach me this is my institute id rahul.choudhary.cer21@itbhu.ac.in
 
 <!---
